@@ -11,7 +11,7 @@ The **AI Recommendation Tool** addresses the challenges faced by the user to get
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo] Video-Link :https://www.loom.com/share/cc4431c62f744f3a9cc57cf7447c592d?sid=61011ab6-17e6-4cbc-8966-30bc45b74df7 
-🖼️ Screenshots:
+🖼️ Screenshots: https://github.com/shalyaj/Neural_Vissionaries/blob/master/Screenshots.pdf
 
 ## 💡 Inspiration
 This project was created during the [Technology Hackathon 2025] to showcase how AI-driven workflows can improve manual auditing processes.
