@@ -96,13 +96,31 @@ function App() {
 
       {recommendations.length > 0 && (
         <div>
-          <h3>Recommendations:</h3>
           <ul>
-            {recommendations.map((rec, index) => (
-              <li key={index}>
-                <strong>{rec.item}</strong> — Score: {rec.score}
-              </li>
-            ))}
+            {recommendations.length > 0 && (
+  <div>
+    <h3>🎯 Recommendations:</h3>
+    <ul>
+      {recommendations.map((rec, index) => (
+        <li
+          key={index}
+          style={{
+            marginBottom: '15px',
+            padding: '10px',
+            border: '1px solid #ddd',
+            borderRadius: '8px',
+            backgroundColor: '#f9f9f9',
+          }}
+        >
+          <h4 style={{ margin: '5px 0' }}>🎁 <strong>{rec.offer_name}</strong></h4>
+          <p><strong>Description:</strong> {rec.description}</p>
+          <p><strong>Benefits:</strong> {rec.benefits}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}
+
           </ul>
         </div>
       )}

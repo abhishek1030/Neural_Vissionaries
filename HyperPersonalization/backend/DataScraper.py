@@ -78,8 +78,3 @@ def fetch_user_details_by_userName(userName):
 
     else:
         return json.dumps({"error": "User not found"})
-
-# Example Usage
-userName_to_search = 'ORG_US_007'
-user = fetch_user_details_by_userName(userName_to_search)
-print(user)
