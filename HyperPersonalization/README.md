@@ -40,16 +40,7 @@ Insights, Transaction History
 
 ## 🛠️ How We Built It
 
-3. **Environment Variables**:
-   - Create a `.env` file in the root folder and add the following environment variables:
-     ```
-     JIRA_URL=https://yourcompany.atlassian.net
-     JIRA_USERNAME=your_email@example.com
-     JIRA_API_TOKEN=your_token
-     DB_CONNECTION_STRING=<your_database_connection_string>
-     ```
-
-4. **Run the Application**:
+1. **Run the Application**:
    - Start the backend:
      ```bash
      python app.py
@@ -59,7 +50,7 @@ Insights, Transaction History
      npm start
      ```
 
-5. **Access the Service**:
+2. **Access the Service**:
    Open your browser and navigate to:
    ```
    http://127.0.0.1:3000
