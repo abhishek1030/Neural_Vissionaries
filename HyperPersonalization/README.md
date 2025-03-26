@@ -107,9 +107,9 @@ Follow these steps to set up the project locally.
      ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: - Streamlit (for user interface)
-- 🔹 Backend:  Flask RESTful API
-- 🔹 Database: PostgreSQL
+- 🔹 Frontend: - React (for user interface)
+- 🔹 Backend:  Python (LangChain Framework)
+- 🔹 AI/LLM: llama 3.3
 - 🔹 Integration Tools: Jira REST API, Pandas
 - 🔹 Other: OpenAI API , Jupyter Notebooks (for exploratory data analysis)
 
