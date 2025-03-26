@@ -4,7 +4,6 @@ from langchain_core.prompts import PromptTemplate
 from llm_helper import llm
 from prompt_template import template
 
-
 def get_recommendations(user_data):
     """Reads user data from a JSON file and returns recommendation data."""
     print(type(user_data))
