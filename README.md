@@ -83,12 +83,13 @@ Follow these steps to set up the project locally.
      ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: - React (for user interface)
+- 🔹 Frontend: - React, JavaScript, HTML, CSS
 - 🔹 Backend:  Python (LangChain Framework)
 - 🔹 AI/LLM: llama 3.3
 - 🔹 Integration Tools: Jira REST API, Pandas
 - 🔹 Other: OpenAI API , Jupyter Notebooks (for exploratory data analysis)
 
 ## 👥 Team
-- **Neural Vissionaries**
-- **Teammate 3**
+-  **Mukul Kumar** - https://github.com/demonescool
+- **Abhishek Anand** - https://github.com/abhishek1030
+- **Rishi Shalyaj** - https://github.com/shalyaj
