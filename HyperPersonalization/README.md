@@ -6,16 +6,7 @@ This project build s a hyper Personalisation tool for an {Customer Type}. You ne
 
 
 ## 🎯 Introduction
-The **AI Reconciliation Tool** addresses the challenges faced in modern-day financial reconciliations by:
-1. Automating anomaly detection in large datasets.
-2. Allowing reconcilers to provide feedback via an interactive UI.
-3. Logging anomalies and their resolutions in platforms like Jira for collaborative tracking.
-
-4. ## 🎯 Introduction
-The **AI Reconciliation Tool** addresses the challenges faced in modern-day financial reconciliations by:
-1. Automating anomaly detection in large datasets.
-2. Allowing reconcilers to provide feedback via an interactive UI.
-3. Logging anomalies and their resolutions in platforms like Jira for collaborative tracking.
+The **AI Recommendation Tool** addresses the challenges faced by the user to get the recommendations based on their area of Interest.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -39,18 +30,13 @@ This project was created during the [Technology Hackathon 2025] to showcase how 
 
 ## ⚙️ What It Does
 
-## Features
-- **Anomaly Detection**:
-   - Identifies mismatches in financial datasets.
-   - Highlights `PRICE` and `QUANTITY` discrepancies.
-- **Feedback Collection**:
-   - Interactive UI for reconcilers to resolve mismatches manually.
-   - Supports custom feedback for anomalies.
-- **Jira Integration**:
-   - Logs anomalies as tasks or tickets in Jira.
-   - Fetches resolutions and updates results in real-time.
-- **Reporting**:
-   - Generates CSV reports for resolved anomalies, including user feedback.
+## Working
+**Input Data**: User Details, Social Media
+Insights, Transaction History
+**Weighting Strategy**:
+- Recent transactions and posts given higher priority
+**Weighted** by recency (0.1 to 1)
+**Prompt Designing** Importance of Prioritization Based on Timestamp and Purchase Date
 
 ## 🛠️ How We Built It
 
