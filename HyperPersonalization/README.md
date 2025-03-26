@@ -10,20 +10,8 @@ The **AI Recommendation Tool** addresses the challenges faced by the user to get
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+📹 [Video Demo] Video-Link :https://www.loom.com/share/cc4431c62f744f3a9cc57cf7447c592d?sid=61011ab6-17e6-4cbc-8966-30bc45b74df7 
 🖼️ Screenshots:
-[Screenshot 1](link-to-image)
----
-Here are some screenshots of the application:
-
-1. **Dashboard**:
-   ![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-
-2. **Feedback UI**:
-   ![Feedback Screenshot](https://via.placeholder.com/800x400?text=Feedback+UI+Screenshot)
-
-3. **Jira Integration**:
-   ![Jira Screenshot](https://via.placeholder.com/800x400?text=Jira+Integration+Screenshot)
 
 ## 💡 Inspiration
 This project was created during the [Technology Hackathon 2025] to showcase how AI-driven workflows can improve manual auditing processes.
