@@ -1,14 +1,11 @@
 import json
 from langchain_core.prompts import PromptTemplate
 
-from HyperPersonalization.backend.app import get_recommendation
 from llm_helper import llm
 from prompt_template import template
 
-
 def get_recommendations(user_data):
     """Reads user data from a JSON file and returns recommendation data."""
-    print("response::::", user_data)
     print(type(user_data))
     #with open(file_path, encoding="utf-8", errors="ignore") as file:
     posts = json.loads(user_data)
@@ -58,9 +55,3 @@ def get_recommendations(user_data):
         recommendation_data = {"error": "Invalid JSON response from LLM"}
 
     return recommendation_data
-
-
-# Example usage
-if __name__ == "__main__":
-    result = get_recommendation()
-    print(result)
