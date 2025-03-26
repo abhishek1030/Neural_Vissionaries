@@ -10,7 +10,9 @@ The **AI Hyper Recommendation Tool** addresses the challenges faced by the user 
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
+
 📹 [Video Demo] Video-Link :https://www.loom.com/share/cc4431c62f744f3a9cc57cf7447c592d?sid=61011ab6-17e6-4cbc-8966-30bc45b74df7 
+
 🖼️ Screenshots: https://github.com/shalyaj/Neural_Vissionaries/blob/master/Screenshots.pdf
 
 ## 💡 Inspiration
