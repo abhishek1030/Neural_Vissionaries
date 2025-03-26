@@ -14,7 +14,7 @@ The **AI Hyper Recommendation Tool** addresses the challenges faced by the user 
 🖼️ Screenshots: https://github.com/shalyaj/Neural_Vissionaries/blob/master/Screenshots.pdf
 
 ## 💡 Inspiration
-This project was created during the [Technology Hackathon 2025] to showcase how AI-driven workflows can improve manual auditing processes.
+This project was created during the [Technology Hackathon 2025] to showcase how Gen AI integration to a reccomendation system is so useful.
 
 ## ⚙️ What It Does
 
@@ -58,9 +58,10 @@ Cleaning
 
 
 ## 🚧 Challenges We Faced
-1.Ensuring Valid JSON Response
+1.Coming up with precise and best prompt tempelate for LLM
 2.Prioritizing Recency for Transactions andSocial Media
-3.Handling Errors and Invalid JSON from LLM
+3.Handling Errors and Invalid JSON from LLM response
+4.Figuring out how to use LLM model
 
 ## 🏃 How to Run
 1.## Setup Instructions
