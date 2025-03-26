@@ -54,37 +54,34 @@ Insights, Transaction History
      ```bash
      python app.py
      ```
-   - Start the Streamlit frontend:
+   - Start the frontend
      ```bash
-     streamlit run app.py
+     npm start
      ```
 
 5. **Access the Service**:
    Open your browser and navigate to:
    ```
-   http://127.0.0.1:8501
+   http://127.0.0.1:3000
    ```
 
 ---
 
 ## Usage
-1. **Upload Dataset**:
-   Upload your financial dataset (e.g., a CSV file) via the provided interface.
-   
-2. **Review Anomalies**:
-   - View auto-detected mismatches in the dataset.
-   - Resolve discrepancies by replacing values or adding manual comments.
-   
-3. **Jira Integration**:
-   - The app automatically logs detected anomalies as tasks in Jira.
-   - Team members can collaborate and provide feedback via Jira tickets.
+**API Call Process:**
+- Data Ingestion, Pre-processing, Chain
+Invocation
 
-4. **Generate Report**:
-   - Save the final reconciliation dataset with both user feedback and Jira resolutions.
+**• Key Methods:**
+- get_recommendations()
+- Data Extraction, Transformation, and JSON
+Cleaning
 
 
 ## 🚧 Challenges We Faced
-Using the OPEN API was a challenging task as it required a key.
+1.Ensuring Valid JSON Response
+2.Prioritizing Recency for Transactions andSocial Media
+3.Handling Errors and Invalid JSON from LLM
 
 ## 🏃 How to Run
 1.## Setup Instructions
@@ -92,8 +89,7 @@ Follow these steps to set up the project locally.
 
 1. **Clone the Repository**:
    ```bash
-   git clone (https://github.com/ewfx/sradg-new-comers)
-   cd AI-Reconciliation-Tool
+   git clone (https://github.com/shalyaj/Neural_Vissionaries.git)
    ```
 
 2. **Set Up Dependencies**:
@@ -114,5 +110,5 @@ Follow these steps to set up the project locally.
 - 🔹 Other: OpenAI API , Jupyter Notebooks (for exploratory data analysis)
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Neural Vissionaries**
+- **Teammate 3**
