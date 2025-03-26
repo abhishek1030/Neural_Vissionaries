@@ -17,6 +17,7 @@ The **AI Hyper Recommendation Tool** addresses the challenges faced by the user 
 This project was created during the [Technology Hackathon 2025] to showcase how Gen AI integration to a reccomendation system is so useful.
 
 ## ⚙️ What It Does
+This application integrates transaction details, social media feedback, and user account profiles to provide personalized banking and personal finance recommendations. Using Gen AI, it analyzes user behavior and preferences to suggest tailored financial products, services, and offers that align with the user’s financial goals and lifestyle. The platform aims to enhance financial decision-making by providing intelligent, data-driven insights.
 
 ## Working
 **Input Data**: User Details, Social Media
